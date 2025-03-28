@@ -25,4 +25,4 @@ dependencies = [
 ]
 
 [project.urls]
-homepage = "https://github.com/slbrimble/Value-Iteration"
+homepage = "https://github.com/slbrimble/value_iteration"
